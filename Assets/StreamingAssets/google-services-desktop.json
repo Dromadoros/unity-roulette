@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265262065820",
+    "project_id": "roulette-a7cd6",
+    "storage_bucket": "roulette-a7cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265262065820:android:c36ea1160f00daa6eca559",
+        "android_client_info": {
+          "package_name": "com.escappstudio.roulette.chezbogna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwUgCk0CvyqMWFqiLHeg6jVsBAKWG2eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

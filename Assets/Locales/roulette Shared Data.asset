@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: roulette Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: roulette
+  m_TableCollectionNameGuidString: 1e4236fa720b50144b29d36e2651807e
+  m_Entries:
+  - m_Id: 44055031808
+    m_Key: 1_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2248681883594752
+    m_Key: 1_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2248958426640384
+    m_Key: 1_button_ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251700461268992
+    m_Key: 1_button_play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252516953845760
+    m_Key: 1_cgu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252769136373760
+    m_Key: 1_privacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2254837158932480
+    m_Key: 2_review_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2255065769472000
+    m_Key: 2_review_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2255685410779136
+    m_Key: 2_review_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256016538497024
+    m_Key: 2_review_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256569800749056
+    m_Key: 3_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256865809559552
+    m_Key: 3_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257132982530048
+    m_Key: 3_placeholder_firstname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257458401800192
+    m_Key: 3_placeholder_email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257624206831616
+    m_Key: 3_button_continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257940780314624
+    m_Key: 4_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258174432407552
+    m_Key: 4_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258330817032192
+    m_Key: 4_spam_msg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977308433256448
+    m_Key: 2_cookies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2998073488642048
+    m_Key: 1_not_play_again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4793603376001024
+    m_Key: close
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7404695470981513244
+  references:
+    version: 2
+    RefIds:
+    - rid: 7404695470981513244
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1713106526982

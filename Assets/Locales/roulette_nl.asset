@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: roulette_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 1e4236fa720b50144b29d36e2651807e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 44055031808
+    m_Localized: 'Chez Bogna
+
+      krijg je de kans om prijzen te winnen'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2248681883594752
+    m_Localized: DRAAI HET WIEL EN WIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2248958426640384
+    m_Localized: DRAAI DE WIEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251700461268992
+    m_Localized: SPELEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252516953845760
+    m_Localized: AV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252769136373760
+    m_Localized: Privacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2254837158932480
+    m_Localized: Uw mening telt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2255065769472000
+    m_Localized: Laat ons een review achter op Google
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2255685410779136
+    m_Localized: Je wordt doorgestuurd naar de site van Google Maps. Ga na het stemmen
+      terug naar deze pagina om te spelen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256016538497024
+    m_Localized: EEN REVIEW SCHRIJVEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256569800749056
+    m_Localized: Gefeliciteerd, je hebt gewonnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256865809559552
+    m_Localized: Om het cadeau te ontvangen, laat ons uw e-mailadres achter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257132982530048
+    m_Localized: Naam*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257458401800192
+    m_Localized: E-mail*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257624206831616
+    m_Localized: ONTVANG HET CADEAU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257940780314624
+    m_Localized: CADEAU VERSTUURD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258174432407552
+    m_Localized: De link om het cadeau op te halen is succesvol verzonden naar uw
+      e-mailadres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258330817032192
+    m_Localized: Vergeet niet uw spam te controleren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977308433256448
+    m_Localized: Cookies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2998073488642048
+    m_Localized: Je hebt al een poging gewaagd, kom terug over 7 dagen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4793603376001024
+    m_Localized: CLOSE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

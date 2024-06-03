@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: roulette_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1e4236fa720b50144b29d36e2651807e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 44055031808
+    m_Localized: 'Chez Bogna
+
+      wins you prizes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2248681883594752
+    m_Localized: SPIN THE WHEEL AND WIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2248958426640384
+    m_Localized: SPIN THE WHEEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251700461268992
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252516953845760
+    m_Localized: T&C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252769136373760
+    m_Localized: Privacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2254837158932480
+    m_Localized: Your opinion matters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2255065769472000
+    m_Localized: Leave us a review on Google
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2255685410779136
+    m_Localized: You will be redirected to the Google Maps site. After voting, return
+      to this page to play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256016538497024
+    m_Localized: WRITE A REVIEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256569800749056
+    m_Localized: Congratulations, you've won
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256865809559552
+    m_Localized: To receive the gift, leave us your email address
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257132982530048
+    m_Localized: Name*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257458401800192
+    m_Localized: E-mail*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257624206831616
+    m_Localized: RECEIVE THE GIFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257940780314624
+    m_Localized: GIFT SENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258174432407552
+    m_Localized: The link to retrieve the gift has been successfully sent to your
+      email address
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258330817032192
+    m_Localized: Don't forget to check your spam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977308433256448
+    m_Localized: Cookies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2998073488642048
+    m_Localized: You've already tried your luck, come back in 7 days.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4793603376001024
+    m_Localized: CLOSE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

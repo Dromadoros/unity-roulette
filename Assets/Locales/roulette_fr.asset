@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: roulette_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 1e4236fa720b50144b29d36e2651807e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 44055031808
+    m_Localized: 'Chez Bogna
+
+      vous fait gagner des cadeaux'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2248681883594752
+    m_Localized: TOURNEZ LA ROUE ET GAGNEZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2248958426640384
+    m_Localized: TOURNER LA ROUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251700461268992
+    m_Localized: JOUER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252516953845760
+    m_Localized: CGU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252769136373760
+    m_Localized: "Confidentialit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2254837158932480
+    m_Localized: Votre avis compte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2255065769472000
+    m_Localized: Laissez-nous un avis sur Google
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2255685410779136
+    m_Localized: "Vous serez redirig\xE9 vers le site de Google Maps. Apr\xE8s avoir
+      vot\xE9, revenez sur cette page pour jouer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256016538497024
+    m_Localized: LAISSER UN AVIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256569800749056
+    m_Localized: "Bravo, vous avez gagn\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2256865809559552
+    m_Localized: Pour recevoir le cadeau, laissez-nous votre adresse email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257132982530048
+    m_Localized: Nom*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257458401800192
+    m_Localized: E-mail*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257624206831616
+    m_Localized: RECEVOIR LE CADEAU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2257940780314624
+    m_Localized: "CADEAU ENVOY\xC9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258174432407552
+    m_Localized: "Le lien pour r\xE9cup\xE9rer le cadeau a bien \xE9t\xE9 envoy\xE9
+      \xE0 votre adresse e-mail"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2258330817032192
+    m_Localized: "N'oubliez pas de v\xE9rifier vos spams"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977308433256448
+    m_Localized: Cookies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2998073488642048
+    m_Localized: "Vous avez d\xE9j\xE0 tent\xE9 votre chance, revenez 7 jours apr\xE8s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4793603376001024
+    m_Localized: FERMER
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
